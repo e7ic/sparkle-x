@@ -1,3 +1,3 @@
-# ![LOGO](./public/logo.svg) Sparkle X
+# Sparkle X 🔥
 
----
+![LOGO](./public/logo.svg) 
