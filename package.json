@@ -9,13 +9,17 @@
     "lint": "next lint"
   },
   "dependencies": {
+    "next": "15.1.4",
     "react": "^19.0.0",
-    "react-dom": "^19.0.0",
-    "next": "15.1.4"
+    "react-dom": "^19.0.0"
   },
   "devDependencies": {
+    "@eslint/eslintrc": "^3",
+    "@unocss/postcss": "^65.4.0",
+    "@unocss/reset": "^65.4.0",
     "eslint": "^9",
     "eslint-config-next": "15.1.4",
-    "@eslint/eslintrc": "^3"
+    "postcss": "^8.4.49",
+    "unocss": "^65.4.0"
   }
 }
